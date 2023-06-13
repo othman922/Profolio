@@ -1311,7 +1311,7 @@ nav ul li:nth-child(5).active ~ .indicator {
 
 .my-CV .container .content .img-sec img {
   max-width: 100%;
-  aspect-ratio: 1 / 1;
+  /* aspect-ratio: 1 / 1; */
   border: 0.125rem solid var(--text-color);
   z-index: 100;
   background-image: radial-gradient(
@@ -1405,6 +1405,7 @@ span[class="top_button"] {
   );
   background-size: 200% 100%;
   background-position: right bottom;
+  z-index: 999;
 }
 
 .show_button > i {
