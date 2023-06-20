@@ -1213,17 +1213,17 @@ nav ul li:nth-child(5).active ~ .indicator {
 
 
  .submit-button {
-  background-color: #4CAF50; /* لون الخلفية */
-  color: white; /* لون النص */
-  padding: 10px 20px; /* تباعد الداخلية */
-  border: none; /* عدم وجود حدود */
-  border-radius: 4px; /* إضافة زوايا مستديرة */
-  cursor: pointer; /* تحويل المؤشر إلى إشارة اليد عند التحويل */
-  font-size: 16px; /* حجم الخط */
+  background-color: #4CAF50; 
+  color: white; 
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 4px; 
+  cursor: pointer; 
+  font-size: 16px; 
 }
 
 .submit-button:hover {
-  background-color: #45a049; /* لون الخلفية عند التحويل */
+  background-color: #45a049; 
 }
 
 
