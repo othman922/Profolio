@@ -1212,7 +1212,7 @@ nav ul li:nth-child(5).active ~ .indicator {
 
 
 
- .submit-button {
+/*  .submit-button {
   background-color: #4CAF50; 
   color: white; 
   padding: 10px 20px; 
@@ -1224,7 +1224,7 @@ nav ul li:nth-child(5).active ~ .indicator {
 
 .submit-button:hover {
   background-color: #45a049; 
-}
+} */
 
 
 
