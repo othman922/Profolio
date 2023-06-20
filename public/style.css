@@ -1209,6 +1209,27 @@ nav ul li:nth-child(5).active ~ .indicator {
   width: 50%;
   padding: 1.875rem;
 }
+
+
+
+ .submit-button {
+  background-color: #4CAF50; /* لون الخلفية */
+  color: white; /* لون النص */
+  padding: 10px 20px; /* تباعد الداخلية */
+  border: none; /* عدم وجود حدود */
+  border-radius: 4px; /* إضافة زوايا مستديرة */
+  cursor: pointer; /* تحويل المؤشر إلى إشارة اليد عند التحويل */
+  font-size: 16px; /* حجم الخط */
+}
+
+.submit-button:hover {
+  background-color: #45a049; /* لون الخلفية عند التحويل */
+}
+
+
+
+
+
 .my-CV .container .content .resume {
   gap: 2.5rem;
   width: 50%;
